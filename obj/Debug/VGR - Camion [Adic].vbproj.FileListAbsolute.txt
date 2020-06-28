@@ -1,0 +1,30 @@
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\bin\Debug\VGR - Camion [Adic].exe.config
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\bin\Debug\VGR - Camion [Adic].exe
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\bin\Debug\VGR - Camion [Adic].pdb
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\bin\Debug\VGR - Camion [Adic].xml
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\bin\Debug\dllFunciones.dll
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\bin\Debug\SIMPLE_SDK.dll
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\bin\Debug\itextsharp.dll
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\bin\Debug\dllFunciones.pdb
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\bin\Debug\dllFunciones.xml
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\bin\Debug\SIMPLE_SDK.pdb
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\bin\Debug\SIMPLE_SDK.dll.config
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\obj\Debug\VGR - Camion [Adic].vbprojAssemblyReference.cache
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\obj\Debug\VGR___Camion__Adic_.frmMain.resources
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\obj\Debug\VGR___Camion__Adic_.Resources.resources
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\obj\Debug\VGR - Camion [Adic].vbproj.GenerateResource.cache
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\obj\Debug\VGR - Camion [Adic].vbproj.CopyComplete
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\obj\Debug\VGR - Camion [Adic].exe
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\obj\Debug\VGR - Camion [Adic].xml
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\obj\Debug\VGR - Camion [Adic].pdb
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\obj\Debug\VGR___Camion__Adic_.frmEmitirFactura.resources
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\bin\Debug\EntityFramework.dll
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\bin\Debug\System.Data.SQLite.dll
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\bin\Debug\EntityFramework.xml
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\obj\Debug\VGR___Camion__Adic_.frmSolicitarFolios.resources
+C:\Users\Erik\OneDrive\Rodrigo Garcia\Soc. Garcia y Ruiz\SistemaFacturacion\VGR - Camion [Adic]\obj\Debug\VGR___Camion__Adic_.frmBuscarClientes.resources
